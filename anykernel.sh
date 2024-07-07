@@ -4,9 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=
-kernel.compiler=
-kernel.made=
+kernel.string=Murali KernelSU
+kernel.compiler=AOSP Clang
+kernel.made=muralivijay
 message.word=
 do.devicecheck=1
 do.modules=0
@@ -15,7 +15,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=spes
 device.name2=spesn
-supported.versions=12 - 14
+supported.versions=13 - 14
 '; } # end properties
 
 
